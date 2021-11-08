@@ -1,0 +1,8 @@
+import {
+  REACT_APP_API_URL,
+  REACT_APP_GITHUB_CLIENT_ID
+} from '@env';
+
+export const API_URL = REACT_APP_API_URL;
+
+export const GITHUB_CLIENT_ID = REACT_APP_GITHUB_CLIENT_ID;
